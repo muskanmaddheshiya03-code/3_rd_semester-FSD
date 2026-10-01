@@ -1,6 +1,10 @@
 # GitHub Copilot Toolbox — MCP & Skills awareness
 
+<<<<<<< HEAD
 _Generated: 2026-10-01T05:30:48.656Z_
+=======
+_Generated: 2026-09-23T04:16:01.224Z_
+>>>>>>> 771983815db88ffb99156aa5ba08238a5038430a
 
 ## How to use this report
 
@@ -13,9 +17,15 @@ _Generated: 2026-10-01T05:30:48.656Z_
 
 ## MCP — workspace
 
+<<<<<<< HEAD
 Workspace `mcp.json` _(folder: Assignment-1)_
 
 - **c:\Users\muskan\OneDrive\Desktop\3rd Sem FSD\Assignment-1\.vscode\mcp.json** — _File missing_
+=======
+Workspace `mcp.json` _(folder: Http server)_
+
+- **c:\Users\muskan\OneDrive\Desktop\Http server\.vscode\mcp.json** — _File missing_
+>>>>>>> 771983815db88ffb99156aa5ba08238a5038430a
 
 _No active workspace servers in mcp.json._
 
